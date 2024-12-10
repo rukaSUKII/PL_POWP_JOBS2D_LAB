@@ -34,6 +34,6 @@ public class DrawingPanelAdapter implements Job2dDriver {
 
 	@Override
 	public String toString() {
-		return "@Q!$!@$!#@$(*#@&Q(%^*#@";
+		return "Basic Drawer";
 	}
 }
